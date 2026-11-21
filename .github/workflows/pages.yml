@@ -1,6 +1,7 @@
 name: Deploy UNO Chess to GitHub Pages
 
 on:
+  # Deploy the packaged web build after a Pages configuration change.
   push:
     branches: [main]
     paths:
