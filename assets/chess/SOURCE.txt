@@ -1,0 +1,4 @@
+Chess assets: Stylized Casual Chess Set
+Source: https://www.freegameassets.com/stylized-casual-3d-models/stylized-casual-chess-set
+License: CC0 1.0 Universal (see LICENSE.txt)
+Package downloaded 2026-11-21. Individual GLB piece files are used by Main.gd.

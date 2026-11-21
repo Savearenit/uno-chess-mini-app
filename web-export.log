@@ -1,0 +1,81 @@
+Godot Engine v4.7.2.stable.steam.ed1daf0bf - https://godotengine.org
+
+[   0% ] first_scan_filesystem | Started Инициализация проекта (5 steps)
+[   0% ] first_scan_filesystem | Сканирование структуры файлов…
+[  16% ] first_scan_filesystem | Загрузка глобальных имен классов…
+[  33% ] first_scan_filesystem | Проверка GDExtensions…
+[  50% ] first_scan_filesystem | Создание скриптов автозагрузки…
+[  66% ] first_scan_filesystem | Инициализация плагинов…
+[  83% ] first_scan_filesystem | Начало сканирование файлов…
+[ DONE ] first_scan_filesystem
+
+[   0% ] _update_scan_actions | Started Сканирование действий… (3 steps)
+[   0% ] _update_scan_actions | index.apple-touch-icon.png
+[  25% ] _update_scan_actions | index.icon.png
+[  50% ] _update_scan_actions | index.png
+[ DONE ] _update_scan_actions
+
+[   0% ] reimport | Started Импорт или повторный импорт ассетов (3 steps)
+[   0% ] reimport | Подготовка файлов к повторному импорту…
+[  25% ] reimport | Подготовка файлов к повторному импорту…
+[  50% ] reimport | Подготовка файлов к повторному импорту…
+[   0% ] reimport | Выполнение предимпортных операций…
+[   0% ] reimport | index.apple-touch-icon.png
+[  25% ] reimport | index.icon.png
+[  50% ] reimport | index.png
+[  75% ] reimport | Завершение импорта активов…
+[ DONE ] reimport
+
+[   0% ] reimport | Started Импорт или повторный импорт ассетов (3 steps)
+[   0% ] reimport | Выполнение операций после реимпорта…
+[ DONE ] reimport
+
+[   0% ] savepack | Started Упаковывание (102 steps)
+[   1% ] savepack | Сохранение файла: res://.godot/imported/bishop-blue.glb-b54fc78e9a5a8a2f86fb620845c4e73b.scn
+[   1% ] savepack | Сохранение файла: res://assets/chess/glb/bishop-blue.glb.import
+[   5% ] savepack | Сохранение файла: res://.godot/imported/bishop-orange.glb-0126413c73ea5080e0b48fdd5bc2dc01.scn
+[   5% ] savepack | Сохранение файла: res://assets/chess/glb/bishop-orange.glb.import
+[  10% ] savepack | Сохранение файла: res://.godot/imported/board.glb-75ebc8592cf84a294316e97953d6dd64.scn
+[  10% ] savepack | Сохранение файла: res://assets/chess/glb/board.glb.import
+[  15% ] savepack | Сохранение файла: res://.godot/imported/king-blue.glb-1ac098e4726a49ef333324d42b604313.scn
+[  15% ] savepack | Сохранение файла: res://assets/chess/glb/king-blue.glb.import
+[  20% ] savepack | Сохранение файла: res://.godot/imported/king-orange.glb-b4475c3839ef14538a51387ba3781a31.scn
+[  20% ] savepack | Сохранение файла: res://assets/chess/glb/king-orange.glb.import
+[  24% ] savepack | Сохранение файла: res://.godot/imported/knight-blue.glb-3bff907b211ab7b1600d7aeec259c8ea.scn
+[  24% ] savepack | Сохранение файла: res://assets/chess/glb/knight-blue.glb.import
+[  29% ] savepack | Сохранение файла: res://.godot/imported/knight-orange.glb-b3f58843ceb5bd7b149e6eea9b296971.scn
+[  29% ] savepack | Сохранение файла: res://assets/chess/glb/knight-orange.glb.import
+[  33% ] savepack | Сохранение файла: res://.godot/imported/pawn-blue.glb-9d3f4c78b327a23d7fc6a49787c89229.scn
+[  33% ] savepack | Сохранение файла: res://assets/chess/glb/pawn-blue.glb.import
+[  38% ] savepack | Сохранение файла: res://.godot/imported/pawn-orange.glb-7c2bca0e20bb0f63a152db5b7feb28f6.scn
+[  38% ] savepack | Сохранение файла: res://assets/chess/glb/pawn-orange.glb.import
+[  42% ] savepack | Сохранение файла: res://.godot/imported/queen-blue.glb-3d42c3bcbfdf4845d55c6f641ae414db.scn
+[  42% ] savepack | Сохранение файла: res://assets/chess/glb/queen-blue.glb.import
+[  47% ] savepack | Сохранение файла: res://.godot/imported/queen-orange.glb-c06f787af692d23f4194ce46fb2d4bc5.scn
+[  47% ] savepack | Сохранение файла: res://assets/chess/glb/queen-orange.glb.import
+[  52% ] savepack | Сохранение файла: res://.godot/imported/rook-blue.glb-2db6f0fa4272e1ced7894b4ab885a8e1.scn
+[  52% ] savepack | Сохранение файла: res://assets/chess/glb/rook-blue.glb.import
+[  57% ] savepack | Сохранение файла: res://.godot/imported/rook-orange.glb-97280fcbab8885daf94424f1c32192c8.scn
+[  57% ] savepack | Сохранение файла: res://assets/chess/glb/rook-orange.glb.import
+[  61% ] savepack | Сохранение файла: res://.godot/imported/starting-position.glb-fd7b923ea07b791f1cf797a6f45cadd4.scn
+[  61% ] savepack | Сохранение файла: res://assets/chess/glb/starting-position.glb.import
+[  66% ] savepack | Сохранение файла: res://.godot/imported/menu_background.png-db72826fab3386aacb134bd9cfee5e23.ctex
+[  66% ] savepack | Сохранение файла: res://assets/menu_background.png.import
+[  70% ] savepack | Сохранение файла: res://.godot/imported/index.apple-touch-icon.png-939ec69c79bbf504b92ad8ceed469d51.ctex
+[  70% ] savepack | Сохранение файла: res://web/index.apple-touch-icon.png.import
+[  75% ] savepack | Сохранение файла: res://.godot/imported/index.icon.png-c615af856eabc03ca93d51f6a8f07b60.ctex
+[  75% ] savepack | Сохранение файла: res://web/index.icon.png.import
+[  79% ] savepack | Сохранение файла: res://.godot/imported/index.png-80964ad67552d78b1e33f58ad16188ff.ctex
+[  79% ] savepack | Сохранение файла: res://web/index.png.import
+[  84% ] savepack | Сохранение файла: res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex
+[  84% ] savepack | Сохранение файла: res://icon.svg.import
+[  89% ] savepack | Сохранение файла: res://Main.gdc
+[  94% ] savepack | Сохранение файла: res://.godot/exported/133200997/export-bcb0d2eb5949c52b6a65bfe9de3e985b-Main.scn
+[  94% ] savepack | Сохранение файла: res://Main.gd.remap
+[  94% ] savepack | Сохранение файла: res://Main.tscn.remap
+[  94% ] savepack | Сохранение файла: res://.godot/global_script_class_cache.cfg
+[  94% ] savepack | Сохранение файла: res://icon.svg
+[  94% ] savepack | Сохранение файла: res://.godot/uid_cache.bin
+[  94% ] savepack | Сохранение файла: res://project.binary
+[ DONE ] savepack
+
